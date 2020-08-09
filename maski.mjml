@@ -1,0 +1,140 @@
+<mjml>
+
+  <mj-head>
+    <mj-style inline="inline">
+      .img {
+      	display: inline-block !importnat;
+     		width: 247px !important;
+      }
+      .img-container td {
+      	text-align: left !important;
+      }
+      .social  {
+      	border-left: 1px solid #e3e3e3 !important;
+      	border-right: 1px solid #e3e3e3 !important;
+      }
+      .half {
+            display: inline-block !important;
+            max-width: 270px !important;
+        }
+    </mj-style>
+    
+
+    <mj-preview>У нас свои маски для «масочного режима»&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;
+    </mj-preview>
+  </mj-head>
+
+  <mj-body background-color="#eee"> 
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#fff"
+                padding="0">
+      <mj-column>
+        <mj-image src="https://ci6.googleusercontent.com/proxy/fK9idyHh9NNz0o4tf8LbFOhn3_ynqD6jaQ7dWg--_0mqNo4_PmTTqnugd3-rnZ5JAQeTgbI_9IdtHzaBY-gpPileQBqI5Cc6uK8W2eCh0D5ZqHNiOCuv9vhLAG7DV_G1_iM2cY-Ij7GxJzd4TmTp5ep_A5jtENPpBDiZ2UVoJI_0bJMIbSO8797QFVZYAt7o1x_4vuM-I8l6DBhsqPtGFHkVZqc4dCG4yzEgMv57=s0-d-e1-ft#http://img.us22.besteml.com/ru/user_file?resource=himg&user_id=3917461&name=6s188zcet553wfndpad7nm4amfbiga7kndfiya11rymdcdwrxjd85qe1fuz9izk6h1kanyuodki4e6"
+                  padding="0"
+                  href="https://www.instagram.com/katharinenball/"
+                  alt="AR-маски в Instagram"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#d4a465">
+    	<mj-column>
+      	<mj-text font-size="36px"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#fff"
+                 align="left">
+        	#Маски от #БЕБ2020
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#d4a465"
+                padding-bottom="0">
+    	<mj-column>
+      	<mj-text font-size="20px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#fff"
+                 align="left">
+        	Пока «масочный режим» постоянно продлевают, мы не остаемся в стороне и делаем маски сами. Может, от надоевшего слова на буку «К» они не защитят, зато от уныния точно.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#d4a465"
+                padding-bottom="0">
+    	<mj-column>
+      	<mj-text font-size="20px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#fff"
+                 align="left">
+          Теперь в <a href="https://www.instagram.com/katharinenball/" style="color: #fff">аккаунте бала в Instagram</a> можно узнать, кем вы будете на балу Екатерины II. Бравым генералом Потёмкиным или княгиней Дашковой?! А можно просто примерить несколько образов екатерининской эпохи.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#d4a465">
+    	<mj-column css-class="half">
+      	<mj-text font-size="20px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#fff"
+                 align="left"
+                 padding-left="0">
+          Подписывайтесь на аккаунт <a href="https://www.instagram.com/katharinenball/" style="color: #fff;">@katharinenball</a>, заходите в специальный раздел, примеряйте маски и выкладывайте в сторис! Отмечайте наш аккаунт, чтобы мы смогли увидеть, что у вас получилось.
+        </mj-text>
+      </mj-column>
+      
+      <mj-column css-class="half">
+      	<mj-image src="https://ci3.googleusercontent.com/proxy/mx-G_By6G63vKyrCW-zUh3jXGijhgAfVGkwAlNQU798XNndnkFAms_3jYHjlz_wXjJM7yRxfGAlTyfdty97tjMo8mOy1__MLPsFtnebMYV3J1c95nRsYjTIRmSa4MkHXBzRFiz6X0hKVRDnSg63gIgkGv7YEBlpMG-8j0omQroWzm_DtLGm334YpB7Oinpylx2IpxVj6CbSkJKkMBE7sPYHJTlQd_07zUtaIMSIx=s0-d-e1-ft#http://img.us22.besteml.com/ru/user_file?resource=himg&user_id=3917461&name=6oq41mfpzf7gx7ndpad7nm4amfbiga7kndfiya1u17dfej85u6oxj7hj4gtmaqeodw8idyd96j61hy"
+                  href="https://www.instagram.com/ar/244124543549444/"
+                  width="279px"
+                  padding="0">
+        
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#d4a465"
+                padding-bottom="0">
+    	<mj-column>
+      	<mj-text font-size="20px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#fff"
+                 align="left">
+        	И не забывайте, мы все еще встречаемся в Царицыно 12 сентября. Маски – отличный повод развлечь себя в ожидании прекрасного.
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#d4a465">
+    	<mj-column>
+      	<mj-button background-color="#8a3d21"
+                   border-radius="35px"
+                   font-size="20px"
+                 	 line-height="1.2"
+                 	 font-family="Arial, Helvetica, sans-serif"
+                 	 font-weight="bold"
+                 	 color="#fff"
+                   width="90%"
+                   height="55px"
+                   href="https://www.instagram.com/katharinenball/">
+        	Примерить маску
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+
+</mjml>

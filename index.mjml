@@ -1,0 +1,208 @@
+<mjml>
+
+  <mj-head>
+    <mj-style inline="inline">
+      .img {
+      	display: inline-block !importnat;
+     		width: 247px !important;
+      }
+      .img-container td {
+      	text-align: left !important;
+      }
+      .social  {
+      	border-left: 1px solid #e3e3e3 !important;
+      	border-right: 1px solid #e3e3e3 !important;
+      }
+      .footer-block {
+        display: inline-block !importnat;
+     		width: 300px !important;
+      }
+    </mj-style>
+    
+    <mj-title>Мы изменили дату бала.</mj-title>
+    <mj-preview>Это не так плохо, и вот почему.&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;
+    </mj-preview>
+		
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#eee"> 
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#fff"
+                padding="0">
+      <mj-column css-class="img-container">
+        <mj-image src="https://ci4.googleusercontent.com/proxy/tcbRzg_AhqsetIiAjWXL3G5lx1asqRIpUVy-3iKKWqQNTxEtFLC8hTLUqCovgT1NSeo66PLF9Ba_-r2GWEAG6zIF_OLFMRwAFQ7P8H2vja8k4z-ygkBfn2kL9MA52U03jr7i34dm1X7PrNv4F8Wd5j46emZvtYX9X4ZKpuiZSivOIsmRmKUWWdzL5Xy1eb2_aToectDY7t5JF_tfwnt2PMrkQT2nlG09--RKXwKwAp5L0EIKHqWIr-yRLw=s0-d-e1-ft#http://img.us22.besteml.com/ru/user_file?resource=himg&user_id=3917461&name=65xzwodu75p5sjndpad7nm4amfbiga7kndfiya1wb7rceq3g6dp43tn531bm3rzw4m9rxif6aik8qpodhx66ftipuga"
+                  padding="0"
+                  href="https://katharinenball.eu"
+                  alt="28 ноября"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#d4a465">
+    	<mj-column>
+      	<mj-text font-size="36px"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#fff"
+                 align="left">
+        	Друзья!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#d4a465"
+                padding-bottom="0">
+    	<mj-column>
+      	<mj-text font-size="20px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#fff"
+                 align="left">
+          Пишем вам, чтобы сообщить важную новость&nbsp;&mdash; Большой Екатерининский Бал переносится на&nbsp;<span style="color: 8a3d21">28&nbsp;ноября 2020&nbsp;года</span>. Ваше здоровье и&nbsp;благополучие&nbsp;&mdash; главный приоритет для нас, именно поэтому мы&nbsp;приняли такое непростое решение.<br><br>
+Не&nbsp;спешите расстраиваться! Это не&nbsp;так плохо, и&nbsp;вот почему:
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#d4a465">
+      <mj-column>
+        <mj-divider border-color="#fff"
+                    border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+        
+    <mj-section background-color="#d4a465"
+                padding-bottom="0">
+    	<mj-column>
+      	<mj-text font-size="30px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#8a3d21"
+                 align="left">
+        	01
+
+        </mj-text>
+        
+        <mj-text font-size="20px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#fff"
+                 align="left"
+                 padding-bottom="30px">
+        	Уже начнётся предрождественская суета. Бал среди новогодних огней в&nbsp;волшебном Царицыно&nbsp;&mdash; настоящая сказка!
+
+        </mj-text>
+        
+        <mj-text font-size="30px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#8a3d21"
+                 align="left">
+        	02
+
+        </mj-text>
+        
+        <mj-text font-size="20px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#fff"
+                 align="left"
+                 padding-bottom="30px">
+        	У&nbsp;вас будет больше времени для выбора костюма, а&nbsp;у&nbsp;нас для того, чтобы подготовиться ещё лучше, чем прежде.
+
+        </mj-text>
+        
+        <mj-text font-size="30px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#8a3d21"
+                 align="left">
+        	03
+
+        </mj-text>
+        
+        <mj-text font-size="20px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#fff"
+                 align="left"
+                 padding-bottom="30px">
+        	Все приобретённые билеты действительны&nbsp;&mdash; менять ничего не&nbsp;нужно.
+
+        </mj-text>
+        
+        
+      </mj-column>
+    </mj-section>
+        
+    <mj-section background-color="#d4a465">
+      <mj-column>
+        <mj-divider border-color="#fff"
+                    border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#d4a465"
+                padding-bottom="0">
+    	<mj-column>
+      	<mj-text font-size="20px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 font-weight="bold"
+                 color="#fff"
+                 align="center">
+        	Ждем вас в ноябре! Главное – будьте здоровы.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#d4a465">
+    	<mj-column>
+      	<mj-button background-color="#8a3d21"
+                   border-radius="35px"
+                   font-size="19px"
+                 	 line-height="1.2"
+                 	 font-family="Arial, Helvetica, sans-serif"
+                 	 font-weight="bold"
+                 	 color="#fff"
+                   width="90%"
+                   height="55px"
+                   href="http://katharinenball.eu/bilet">
+        	Всё-таки купить билет
+        </mj-button>
+      </mj-column>
+    </mj-section>
+        
+    <mj-section background-color="#d4a465"
+                padding-bottom="0">
+    	<mj-column>
+      	<mj-text font-size="16px"
+                 line-height="1.2"
+                 font-family="Arial, Helvetica, sans-serif"
+                 color="#fff"
+                 align="center">
+        	Если новая дата идет вразрез с вашими планами, билет можно вернуть.
+          Как это сделать –  <a href="https://intickets.ru/refund-service/"
+                                style="color: #8a3d21;">читайте тут.</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+
+</mjml>

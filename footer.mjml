@@ -1,0 +1,48 @@
+<mj-section >
+  	<mj-column css-class="footer-block">
+    <mj-text font-size="16px"
+             color="#afafaf"
+             vertical-align="middle"
+             padding="20px"
+             align="center">
+     Добавьте нас в друзья
+    </mj-text>
+  </mj-column>
+  
+   <mj-column css-class="footer-block">
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element src="http://webletter.space/v5/img/ico/scl/fcb.png" href="https://www.facebook.com/katharinenball/"
+                             css-class="social">
+          </mj-social-element>
+          
+          <mj-social-element src="http://webletter.space/v5/img/ico/scl/inst.png" href="https://www.instagram.com/katharinenball/"
+                             css-class="social">
+          </mj-social-element>
+         
+          <mj-social-element src="http://webletter.space/v5/img/ico/scl/vk.png" href="https://vk.com/katharinenball"
+                             css-class="social">
+          </mj-social-element>
+          
+          <mj-social-element src="https://cp.unisender.com/ru/user_file?resource=images&user_id=3917461&name=BEB/BEB8.png" href="https://katharinenball.eu"
+                             css-class="social">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+	<mj-column>
+  	<mj-text color="#afafaf">
+    	Вы получили это письмо, так как являетесь другом проекта "Большой Екатерининский Бал". Если вы не заинтересованы в получении информации, пожалуйста, отпишитесь от рассылки, кликнув по ссылке в конце письма.
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+	<mj-column>
+  	<mj-text color="#afafaf"
+             align="center">
+    	© 2020 БЕБ
+    </mj-text>
+  </mj-column>
+</mj-section>

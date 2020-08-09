@@ -1,0 +1,23 @@
+<mj-section background-color="#eee" 
+            padding="0px">
+    <mj-column>	
+        <mj-text color="#202020" font-size="10px" padding="13px 20px 11px">
+            Письмо отображается некорректно? Нажмите <a href="{{WebLetterUrl}}" target="_blank" style="text-decoration: underline; color:#202020;">сюда</a>
+        </mj-text>
+    </mj-column>
+</mj-section>
+
+<mj-section padding="10px"
+            background-color="#d4a465"
+            css-class="img-container">
+	<mj-column css-class="img">
+  	<mj-image src="http://webletter.space/ru/user_file?resource=himg&user_id=3917461&name=65gghftgscf6jtndpad7nm4amfbiga7kndfiya11qr45p1rtpeuw7f9945uik9mhf4kd7qhfxdhqhr"
+              width="247px"
+              padding="0"
+              href="https://katharinenball.eu"
+              alt="Официальный сайт Бала">
+    
+    </mj-image>
+  </mj-column>
+
+</mj-section>
