@@ -19,7 +19,7 @@
       }
     </mj-style>
     
-    <mj-title>Мы изменили дату бала.</mj-title>
+    <mj-title>Бал пройдет в ноябре!</mj-title>
     <mj-preview>Это не так плохо, и вот почему.&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;
     </mj-preview>
 		
@@ -36,7 +36,7 @@
     <mj-section background-color="#fff"
                 padding="0">
       <mj-column css-class="img-container">
-        <mj-image src="https://ci4.googleusercontent.com/proxy/tcbRzg_AhqsetIiAjWXL3G5lx1asqRIpUVy-3iKKWqQNTxEtFLC8hTLUqCovgT1NSeo66PLF9Ba_-r2GWEAG6zIF_OLFMRwAFQ7P8H2vja8k4z-ygkBfn2kL9MA52U03jr7i34dm1X7PrNv4F8Wd5j46emZvtYX9X4ZKpuiZSivOIsmRmKUWWdzL5Xy1eb2_aToectDY7t5JF_tfwnt2PMrkQT2nlG09--RKXwKwAp5L0EIKHqWIr-yRLw=s0-d-e1-ft#http://img.us22.besteml.com/ru/user_file?resource=himg&user_id=3917461&name=65xzwodu75p5sjndpad7nm4amfbiga7kndfiya1wb7rceq3g6dp43tn531bm3rzw4m9rxif6aik8qpodhx66ftipuga"
+        <mj-image src="https://cp.unisender.com/ru/user_file?resource=himg&user_id=3917461&name=6mckm5fyfmmirfndpad7nm4amfbiga7kndfiya1wb7rceq3g6dp498ifasgpu8gf7qjseewwr5k6i8q7ohqr6gcosuw"
                   padding="0"
                   href="https://katharinenball.eu"
                   alt="28 ноября"></mj-image>
@@ -64,7 +64,9 @@
                  font-weight="bold"
                  color="#fff"
                  align="left">
-          Пишем вам, чтобы сообщить важную новость&nbsp;&mdash; Большой Екатерининский Бал переносится на&nbsp;<span style="color: 8a3d21">28&nbsp;ноября 2020&nbsp;года</span>. Ваше здоровье и&nbsp;благополучие&nbsp;&mdash; главный приоритет для нас, именно поэтому мы&nbsp;приняли такое непростое решение.<br><br>
+         
+Пишем вам, чтобы сообщить важную новость&nbsp;&mdash; дата проведения Большого Екатерининского бала изменилась. Наша встреча состоится <span style="color: #8a3d21">28&nbsp;ноября 2020&nbsp;года.</span> Решение далось непросто, но&nbsp;ваше здоровье и&nbsp;благополучие в&nbsp;приоритете для нас. Мы&nbsp;заботимся о&nbsp;том, чтобы мероприятие было организовано в&nbsp;соответствии со&nbsp;всеми правилами безопасности и&nbsp;ничто не&nbsp;помешало вам хорошо провести время.          
+          <br><br>
 Не&nbsp;спешите расстраиваться! Это не&nbsp;так плохо, и&nbsp;вот почему:
 
         </mj-text>
@@ -98,7 +100,7 @@
                  color="#fff"
                  align="left"
                  padding-bottom="30px">
-        	Уже начнётся предрождественская суета. Бал среди новогодних огней в&nbsp;волшебном Царицыно&nbsp;&mdash; настоящая сказка!
+        	Уже начнутся приятные предрождественские хлопоты. Бал среди новогодних огней в&nbsp;волшебном Царицыно&nbsp;&mdash; настоящая сказка!
 
         </mj-text>
         
